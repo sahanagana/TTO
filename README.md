@@ -1,15 +1,5 @@
 # The Talent Oracle
 
-### What it does
-Tired of old, boring, personality tests? 
-Our application utilizes LLMs to give these tests a fun, gamified twist!
+Transform your hiring process with The Talent Oracle - an innovative assessment tool that reveals candidates' true potential through gamified interaction. By engaging candidates in a creative problem-solving scenario, our AI analyzes their decision-making patterns, adaptability, and creative thinking skills in real-time. The resulting personality profile provides detailed insights into core traits, professional strengths, growth areas, and tailored career path recommendations. Unlike traditional personality tests, The Talent Oracle's dynamic approach reduces response bias and captures authentic behavioral patterns, helping you make more informed hiring decisions while offering an engaging candidate experience. Ideal for roles requiring creative problem-solving, adaptability, and strategic thinking.
 
-### Use cases
-- Hiring Manager: figure out if this candidate is right for your organization
-- Project Manager: understand how your team might work together
-- Individual: discover your own strengths and weaknesses, and create a plan for self-improvement
-- Relationships: gain insight as to how your personalities may compliment or challenge one another's'
-- Teachers: understand your students' learning preferences and work styles
-- Parents: understand your child's behaviour and personality ticks
-
-
+Installation is easy! Just clone the repository, make a config.ini file with your API key, and pay us $1000/month for our ChatGPT wrapper!
